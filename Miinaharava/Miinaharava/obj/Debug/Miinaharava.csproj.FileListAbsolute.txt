@@ -1,0 +1,15 @@
+C:\Ohjelmointi\graafiset-kayttoliittymat-perusteet-Ilari-H\15_Lopputyo\16c_KIITETTAVA_Miinaharava (Valittu)\Tehtävä\Miinaharava\Miinaharava\bin\Debug\Miinaharava.exe.config
+C:\Ohjelmointi\graafiset-kayttoliittymat-perusteet-Ilari-H\15_Lopputyo\16c_KIITETTAVA_Miinaharava (Valittu)\Tehtävä\Miinaharava\Miinaharava\bin\Debug\Miinaharava.exe
+C:\Ohjelmointi\graafiset-kayttoliittymat-perusteet-Ilari-H\15_Lopputyo\16c_KIITETTAVA_Miinaharava (Valittu)\Tehtävä\Miinaharava\Miinaharava\bin\Debug\Miinaharava.pdb
+C:\Ohjelmointi\graafiset-kayttoliittymat-perusteet-Ilari-H\15_Lopputyo\16c_KIITETTAVA_Miinaharava (Valittu)\Tehtävä\Miinaharava\Miinaharava\obj\Debug\Miinaharava.csproj.AssemblyReference.cache
+C:\Ohjelmointi\graafiset-kayttoliittymat-perusteet-Ilari-H\15_Lopputyo\16c_KIITETTAVA_Miinaharava (Valittu)\Tehtävä\Miinaharava\Miinaharava\obj\Debug\Miinaharava.csproj.SuggestedBindingRedirects.cache
+C:\Ohjelmointi\graafiset-kayttoliittymat-perusteet-Ilari-H\15_Lopputyo\16c_KIITETTAVA_Miinaharava (Valittu)\Tehtävä\Miinaharava\Miinaharava\obj\Debug\Miinaharava.Properties.Resources.resources
+C:\Ohjelmointi\graafiset-kayttoliittymat-perusteet-Ilari-H\15_Lopputyo\16c_KIITETTAVA_Miinaharava (Valittu)\Tehtävä\Miinaharava\Miinaharava\obj\Debug\Miinaharava.csproj.GenerateResource.cache
+C:\Ohjelmointi\graafiset-kayttoliittymat-perusteet-Ilari-H\15_Lopputyo\16c_KIITETTAVA_Miinaharava (Valittu)\Tehtävä\Miinaharava\Miinaharava\obj\Debug\Miinaharava.csproj.CoreCompileInputs.cache
+C:\Ohjelmointi\graafiset-kayttoliittymat-perusteet-Ilari-H\15_Lopputyo\16c_KIITETTAVA_Miinaharava (Valittu)\Tehtävä\Miinaharava\Miinaharava\obj\Debug\Miinaharava.exe
+C:\Ohjelmointi\graafiset-kayttoliittymat-perusteet-Ilari-H\15_Lopputyo\16c_KIITETTAVA_Miinaharava (Valittu)\Tehtävä\Miinaharava\Miinaharava\obj\Debug\Miinaharava.pdb
+C:\Ohjelmointi\graafiset-kayttoliittymat-perusteet-Ilari-H\15_Lopputyo\16c_KIITETTAVA_Miinaharava (Valittu)\Tehtävä\Miinaharava\Miinaharava\obj\Debug\Miinaharava.FormMain.resources
+C:\Ohjelmointi\graafiset-kayttoliittymat-perusteet-Ilari-H\15_Lopputyo\16c_KIITETTAVA_Miinaharava (Valittu)\Tehtävä\Miinaharava\Miinaharava\obj\Debug\Miinaharava.FormHelppo.resources
+C:\Ohjelmointi\graafiset-kayttoliittymat-perusteet-Ilari-H\15_Lopputyo\16c_KIITETTAVA_Miinaharava (Valittu)\Tehtävä\Miinaharava\Miinaharava\obj\Debug\Miinaharava.FormKeski.resources
+C:\Ohjelmointi\graafiset-kayttoliittymat-perusteet-Ilari-H\15_Lopputyo\16c_KIITETTAVA_Miinaharava (Valittu)\Tehtävä\Miinaharava\Miinaharava\obj\Debug\Miinaharava.FormVaikea.resources
+C:\Ohjelmointi\graafiset-kayttoliittymat-perusteet-Ilari-H\15_Lopputyo\16c_KIITETTAVA_Miinaharava (Valittu)\Tehtävä\Miinaharava\Miinaharava\obj\Debug\Miinaharava.Vaikeustasot.FormTutorial.resources
